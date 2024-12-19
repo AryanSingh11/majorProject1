@@ -8,7 +8,7 @@
 * ARYAN SINGH - 0101CS211032
 
 ## Project Description:
-The <strong>“UrbanClapPro"</strong> web application aims to aggregate utility services such as beauty, electrical mainatainance, home cleaning, pest control etc. The application would enable the end-user to select their preferred service, book an appointment at a convenient time, pay the resultant charge and give feedback. The primary criterion of the web application would facility easy calenter and time slot booking to book the services according to your time and availability. The application aims to be a one stop shop that caters to all the utility needs for the end user. Out product promises easy booking and cancellation without extra changes and you can maintain your booked services at one places easily. 
+The <strong>“Blue collar freelance platform"</strong> web application aims to aggregate utility services such as beauty, electrical mainatainance, home cleaning, pest control etc. The application would enable the end-user to select their preferred service, book an appointment at a convenient time, pay the resultant charge and give feedback. The primary criterion of the web application would facility easy calenter and time slot booking to book the services according to your time and availability. The application aims to be a one stop shop that caters to all the utility needs for the end user. Out product promises easy booking and cancellation without extra changes and you can maintain your booked services at one places easily. 
 
 #
 
@@ -26,11 +26,6 @@ The <strong>“UrbanClapPro"</strong> web application aims to aggregate utility 
 * After each sprint, the final code is merged with `main` branch which is our final working product.
 * A checkpoint branch is also created after each sprint for the purpose of tracking changes between two sprints.
 
-#
-
-## Deployment:
-
-Frontend Link: https://urban-clap-pro.netlify.app/
 
 #
 
