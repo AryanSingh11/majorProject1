@@ -1,0 +1,33 @@
+// {
+//   "extends": "../tsconfig.json",
+//   "include": ["**/*.ts"],
+//   "compilerOptions": {
+//     "sourceMap": false,
+//     "types": ["cypress"]
+//   }
+// }
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "es2020",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "lib": [
+      "es2018",
+      "dom"
+    ]
+  },
+  "angularCompilerOptions": {
+    "enableIvy": true
+  }
+}
