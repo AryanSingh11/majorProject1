@@ -1,4 +1,4 @@
-# UrbanClapClone
+# MAJOR PROJECT BY ARYAN SINGH
 
 <b>Course</b>: MAJOR PROJECT <br>
 <b>Institute</b>: Unviersity Institute of technology, RGPV <br>
@@ -8,7 +8,7 @@
 * ARYAN SINGH - 0101CS211032
 
 ## Project Description:
-The <strong>“UrbanClapPro"</strong> web application aims to aggregate utility services such as beauty, electrical mainatainance, home cleaning, pest control etc. The application would enable the end-user to select their preferred service, book an appointment at a convenient time, pay the resultant charge and give feedback. The primary criterion of the web application would facility easy calenter and time slot booking to book the services according to your time and availability. The application aims to be a one stop shop that caters to all the utility needs for the end user. Out product promises easy bookign and cancellation without extra changes and you can maintain your booked services at one places easily. 
+The <strong>“UrbanClapPro"</strong> web application aims to aggregate utility services such as beauty, electrical mainatainance, home cleaning, pest control etc. The application would enable the end-user to select their preferred service, book an appointment at a convenient time, pay the resultant charge and give feedback. The primary criterion of the web application would facility easy calenter and time slot booking to book the services according to your time and availability. The application aims to be a one stop shop that caters to all the utility needs for the end user. Out product promises easy booking and cancellation without extra changes and you can maintain your booked services at one places easily. 
 
 #
 
@@ -25,23 +25,6 @@ The <strong>“UrbanClapPro"</strong> web application aims to aggregate utility 
 * A pull request is created to merge the code to `dev-{name}` branch which is our development branch.
 * After each sprint, the final code is merged with `main` branch which is our final working product.
 * A checkpoint branch is also created after each sprint for the purpose of tracking changes between two sprints.
-
-#
-
-## Sprint 4 Deliverables:
-
-The deliverables for this sprint can be found by visiting : https://github.com/rsj-rishabh/urbanClapClone/blob/master/Sprint4.md
-
-#
-
-## Project Board:
-
-Link : https://github.com/rsj-rishabh/urbanClapClone/projects/1
-
-#
-
-## API Documentation:
-Link : https://github.com/rsj-rishabh/urbanClapClone/blob/master/API%20Documentation.md
 
 #
 
@@ -104,7 +87,7 @@ Ignore any errors as it will check for required datatables (show the error), the
 ## Running Frontend Server:
 * Clone the repository
 ```
-git clone https://github.com/rsj-rishabh/urbanClapClone.git
+git clone https://github.com/AryanSingh11/majorProject1.git
 ```
 * Install NodeJS LTS version from https://nodejs.org/en/ for your Operating System.
 * Navigate to client folder and install required libraries:
